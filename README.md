@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Bagel" rel="noopener" target="_blank"><img width="400" src="https://github.com/yabao0x5a/everything/blob/main/everything.jpg" alt="everything"></a>
+  <a href="https://en.wikipedia.org/wiki/Bagel" rel="noopener" target="_blank"><img width="200" src="https://github.com/yabao0x5a/everything/blob/main/everything.jpg" alt="everything"></a>
 </p>
 
 <h1 align="center">everything</h1>
